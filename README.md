@@ -6,3 +6,6 @@ This is an android app that gives the current moon sign along with a forecast ba
 This is actually a web app, which uses Android's web view activity.
 
 This must be compiled into an .apk with a program such as Eclipse. 
+
+Get the app on [Google Play](https://play.google.com/store/apps/details?id=org.astrolibrary.dailymoonforecast&hl=en)
+
